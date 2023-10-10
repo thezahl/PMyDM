@@ -10,7 +10,7 @@ fun presentacion(opciones: MutableList<String>){
     }
 }
 fun main(){
-    var n: Int
+    var n: Int 
     do{
         var opciones: MutableList<String> = mutableListOf("1 - EJERCICIO 1", "2 - EJERCICIO 2", "3 - EJERCICIO 3", "4 - EJERCICIO 4", "5 - EJERCICIO 5", "6 - EJERCICIO 6", "7 - EJERCICIO 7", "8 - EJERCICIO 8",
             "9 - EJERCICIO 9", "10 - EJERCICIO 10", "11 - EJERCICIO 11")
